@@ -9,3 +9,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhkm)](https://github.com/anuraghazra/github-readme-stats)
+
+ #Contatos:
+ vitorhkmelo@gmail.com
+
+[<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' Height='30'>](https://www.linkedin.com/in/vitor-hugo-kuhnen-de-melo-65ab37215/)
