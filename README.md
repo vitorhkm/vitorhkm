@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 # Biografia
-#### 4 anos de experiência trabalhando com Desig Gráfico na Assembleia Legislativa do Estado de Santa Catarina
+#### 4 anos de experiência trabalhando com Design Gráfico na Assembleia Legislativa do Estado de Santa Catarina
 
 ### Estudando programação HTML e Python
 
